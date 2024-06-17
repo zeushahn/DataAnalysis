@@ -3,3 +3,7 @@
 일자 : 2024-06-17 ~ 2024-07-18
 
 연락처 : kennysy@naver.com
+
+
+## JSON
+    https://raw.githubusercontent.com/naver/naver-openapi-guide/draft/naver-openapi-swagger.json
